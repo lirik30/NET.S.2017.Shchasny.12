@@ -1,0 +1,5 @@
+c:\users\kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.12\TimerLogic\bin\Debug\TimerLogic.dll
+c:\users\kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.12\TimerLogic\bin\Debug\TimerLogic.pdb
+c:\users\kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.12\TimerLogic\obj\Debug\TimerLogic.csprojResolveAssemblyReference.cache
+c:\users\kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.12\TimerLogic\obj\Debug\TimerLogic.dll
+c:\users\kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.12\TimerLogic\obj\Debug\TimerLogic.pdb
