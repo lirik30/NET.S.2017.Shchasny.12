@@ -1,0 +1,9 @@
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.12\BinarySearchLogic.Tests\bin\Debug\BinarySearchLogic.Tests.dll
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.12\BinarySearchLogic.Tests\bin\Debug\BinarySearchLogic.Tests.pdb
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.12\BinarySearchLogic.Tests\bin\Debug\BinarySearchLogic.dll
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.12\BinarySearchLogic.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.12\BinarySearchLogic.Tests\bin\Debug\BinarySearchLogic.pdb
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.12\BinarySearchLogic.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.12\BinarySearchLogic.Tests\obj\Debug\BinarySearchLogic.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.12\BinarySearchLogic.Tests\obj\Debug\BinarySearchLogic.Tests.dll
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.12\BinarySearchLogic.Tests\obj\Debug\BinarySearchLogic.Tests.pdb
